@@ -3,15 +3,9 @@ status](https://travis-ci.org/inconshreveable/ngrok.svg)](https://travis-ci.org/
 
 # ngrok - Introspected tunnels to localhost ([homepage](https://ngrok.com))
 ### ”I want to expose a local server behind a NAT or firewall to the internet.”
-![](https://ngrok.com/static/img/overview.png)
-
 ## What is ngrok?
 ngrok is a reverse proxy that creates a secure tunnel from a public endpoint to a locally running web service.
 ngrok captures and analyzes all traffic over the tunnel for later inspection and replay.
-
-## ngrok 2.x
-
-ngrok 2.x is the successor to 1.x and the focus of all current development effort. Its source code is not available.
 
 **NOTE** This repository contains the code for ngrok 1.x.
 
